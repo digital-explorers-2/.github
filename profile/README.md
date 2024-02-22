@@ -19,5 +19,6 @@
 ### Schedule:
 * Monday & Wednesdays between 10:15 - 13:15
 
-### Important: Lectures take place physically in classroom **S-244** at **Tallinn University**. It is in Silva building **2nd floor**. For directions, you can take a look at our Campus: https://www.tlu.ee/en/campus
+### Important! 
+Lectures take place physically in classroom **S-244** at **Tallinn University**. It is in Silva building **2nd floor**. For directions, you can take a look at our Campus: https://www.tlu.ee/en/campus
 Tallinn University Address: Narva road 29, Tallinn.
