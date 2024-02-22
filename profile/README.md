@@ -2,7 +2,8 @@
 ## Interaction Design Workshop and Application Programming
 
 ### Homework:
-* WIKI: https://github.com/digital-explorers-2/.github/wiki/homework
+* Application Programming WIKI: https://github.com/digital-explorers-2/.github/wiki/homework
+* Interaction Design Workshop: https://classroom.google.com/c/NjY0NTgxNzc4MzA1?cjc=bvypyuy (class code: bvypyuy)
 
 ### Discord link:
 * https://discord.gg/cjMztmt75t
