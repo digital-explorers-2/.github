@@ -8,7 +8,7 @@
 * https://discord.gg/cjMztmt75t
 
 ### Zoom links:
-* Mondays (*Interaction Design Workshop*) —— 
+* Mondays (*Interaction Design Workshop*) —— https://zoom.us/j/99050934861
 * Wednesdays (*Application Programming*) —— https://zoom.us/j/96914336285?pwd=dHNKZklmZmJOQ2lpMXJZUi9QVVkrZz09 (passcode: 720669)
 
 ### Lecturers:
